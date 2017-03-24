@@ -3,7 +3,9 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"OFFSET_PRIM_ASIZE",
+		"OFFSET_PRIM_PTR",
+		"OFFSET_PRIM_SIZE" ],
 	"commentStamp" : "",
 	"instvars" : [
 		 ],

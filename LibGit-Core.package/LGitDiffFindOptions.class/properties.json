@@ -3,7 +3,14 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"OFFSET_PRIM_BREAK_REWRITE_THRESHOLD",
+		"OFFSET_PRIM_COPY_THRESHOLD",
+		"OFFSET_PRIM_FLAGS",
+		"OFFSET_PRIM_METRIC",
+		"OFFSET_PRIM_RENAME_FROM_REWRITE_THRESHOLD",
+		"OFFSET_PRIM_RENAME_LIMIT",
+		"OFFSET_PRIM_RENAME_THRESHOLD",
+		"OFFSET_PRIM_VERSION" ],
 	"commentStamp" : "",
 	"instvars" : [
 		 ],

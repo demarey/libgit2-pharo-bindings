@@ -3,7 +3,10 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"OFFSET_PRIM_PROGRESS_CB",
+		"OFFSET_PRIM_PROGRESS_PAYLOAD",
+		"OFFSET_PRIM_STATS",
+		"OFFSET_PRIM_WRITEPACK" ],
 	"commentStamp" : "",
 	"instvars" : [
 		 ],

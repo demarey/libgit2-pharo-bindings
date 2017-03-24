@@ -4,7 +4,8 @@
 		 ],
 	"classtraitcomposition" : "TLGitCalloutTrait classTrait",
 	"classvars" : [
-		 ],
+		"OFFSET_PRIM_CREDTYPE",
+		"OFFSET_PRIM_FREE" ],
 	"commentStamp" : "",
 	"instvars" : [
 		"username",

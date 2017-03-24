@@ -3,7 +3,9 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"OFFSET_PRIM_EMAIL",
+		"OFFSET_PRIM_NAME",
+		"OFFSET_PRIM_WHEN" ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		 ],

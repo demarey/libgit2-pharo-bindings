@@ -3,7 +3,8 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"OFFSET_PRIM_COUNT",
+		"OFFSET_PRIM_STRINGS" ],
 	"commentStamp" : "",
 	"instvars" : [
 		 ],

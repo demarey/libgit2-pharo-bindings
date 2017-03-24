@@ -3,10 +3,14 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"OFFSET_PRIM_CALLBACKS",
+		"OFFSET_PRIM_DOWNLOAD_TAGS",
+		"OFFSET_PRIM_PRUNE",
+		"OFFSET_PRIM_UPDATE_FETCHHEAD",
+		"OFFSET_PRIM_VERSION" ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"callbacks" ],
 	"name" : "LGitFetchOptions",
 	"pools" : [
 		 ],

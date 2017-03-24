@@ -3,7 +3,8 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"OFFSET_PRIM_OFFSET",
+		"OFFSET_PRIM_TIME" ],
 	"commentStamp" : "",
 	"instvars" : [
 		 ],

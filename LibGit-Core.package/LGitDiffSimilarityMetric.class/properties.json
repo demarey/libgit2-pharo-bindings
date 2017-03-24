@@ -3,7 +3,9 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"OFFSET_PRIM_OID_CALCULATIONS",
+		"OFFSET_PRIM_STAT_CALLS",
+		"OFFSET_PRIM_VERSION" ],
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
